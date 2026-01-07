@@ -9,7 +9,7 @@ const projectsData = [
     id: 2,
     title: "Submit Assignment",
     description: "Project 2 description",
-    image: "/images/projects/SubmitAssignment/p1.png",
+    image: "https://res.cloudinary.com/dy1uetvt1/image/upload/v1767800656/p1_bwxtza.png",
     tag: ["All", "Web"],
     gitUrl: "/",
     previewUrl: "/detail-project/2",
