@@ -38,11 +38,11 @@ export const projectDetails = [
         title: "Fashion Mens",
         description: "The system allows users to purchase clothing, track their order status, view available sizes, and make payments",
         images: [
-            "/images/projects/fashionmens/p1.png",
-            "/images/projects/fashionmens/p2.png",
-            "/images/projects/fashionmens/p3.png",
-            "/images/projects/fashionmens/p4.png",
-            "/images/projects/fashionmens/p5.png"
+            "/images/projects/fashionmens/f1.png",
+            "/images/projects/fashionmens/f2.png",
+            "/images/projects/fashionmens/f3.png",
+            "/images/projects/fashionmens/f4.png",
+            "/images/projects/fashionmens/f5.png"
         ],
         stack: ["PHP", "MySQL", "Bootstrap", "HTML", "CSS","JavaScript"],
         gitUrl: "https://github.com/disk007/Fashion-mans",
@@ -71,9 +71,9 @@ export const projectDetails = [
         title: "Chat Messenger",
         description: "A real-time chat application that allows users to send and receive messages instantly, supporting both one-on-one and group conversations.",
         images: [
-            "/images/projects/chatmessge/p1.png",
-            "/images/projects/chatmessge/p2.png",
-            "/images/projects/chatmessge/p3.png",
+            "/images/projects/chatmessge/c1.png",
+            "/images/projects/chatmessge/c2.png",
+            "/images/projects/chatmessge/c3.png",
         ],
         stack: ["Next.js", "PostgreSQL", "Socket.IO", "Tailwind CSS","TypeScript"],     
         gitUrl: "https://github.com/disk007/chatNext.js/",
