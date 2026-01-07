@@ -19,11 +19,11 @@ export const projectDetails = [
         title: "Submit Assignment",
         description: "A web-based system that allows students to submit homework assignments online and enables teachers to review, grade, and provide feedback efficiently",
         images: [
-            "/images/projects/submitassignment/p1.png",
-            "/images/projects/submitassignment/p2.png",
-            "/images/projects/submitassignment/p3.png",
-            "/images/projects/submitassignment/p4.png",
-            "/images/projects/submitassignment/p5.png"
+            "/images/projects/1.png",
+            "/images/projects/2.png",
+            "/images/projects/3.png",
+            "/images/projects/4.png",
+            "/images/projects/5.png"
         ],
         stack: ["React.js", "Node.js", "PostgreSQL", "Socket.IO", "Tailwind CSS"],
         gitUrl: "https://github.com/disk007/Online-Homework-Submission",
