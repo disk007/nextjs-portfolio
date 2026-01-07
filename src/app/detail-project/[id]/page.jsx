@@ -79,7 +79,7 @@ const DetailProjectPage = ({ params }) => {
 
 
                                 {/* thumbnails */}
-                                <div className="flex gap-3 mt-4 overflow-x-auto pb-2">
+                                <div className="flex gap-3 mt-4 overflow-x-auto">
                                     {project.images.map((img) => (
                                         <button
                                             key={img}
