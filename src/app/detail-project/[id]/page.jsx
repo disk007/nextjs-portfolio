@@ -141,6 +141,8 @@ const DetailProjectPage = ({ params }) => {
                                 <div className="flex flex-wrap gap-4 pt-4">
                                     
                                     <Link
+                                        target="_blank"
+                                        rel="noopener noreferrer"
                                         href={project.gitUrl}
                                         className="flex justify-center items-center gap-1 px-6 py-3 rounded-xl
                 border border-gray-600 text-gray-200

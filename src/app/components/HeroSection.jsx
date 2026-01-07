@@ -43,7 +43,9 @@ const HeroSection = () => {
           </p>
           <div>
             <a
-              href="/images/resume.pdf"
+              target="_blank"
+  rel="noopener noreferrer"
+              href="https://res.cloudinary.com/dy1uetvt1/image/upload/v1767802558/Resume_vwzlvz.pdf"
               download
               className="px-1 inline-block py-1 w-full sm:w-fit rounded-full
       bg-gradient-to-br from-primary-500 to-secondary-500
