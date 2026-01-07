@@ -4,8 +4,8 @@ export const projectDetails = [
         title: "Intern Leaderboard",
         description: "This website is an Intern Leaderboard developed to display and rank the performance of interns within the organization. The system retrieves data from Jira, a project management tool",
         images: [
-            "/images/projects/internleaderboard/p1.png",
-            "/images/projects/internleaderboard/p2.png",
+            "https://res.cloudinary.com/dy1uetvt1/image/upload/v1767801320/p1_ljbprp.png",
+            "https://res.cloudinary.com/dy1uetvt1/image/upload/v1767801321/p2_dilxjn.png",
         ],
         stack: ["Angular", "ASP.NET Core", "SQL Server","TypeScript"],
         gitUrl: "",
@@ -19,11 +19,11 @@ export const projectDetails = [
         title: "Submit Assignment",
         description: "A web-based system that allows students to submit homework assignments online and enables teachers to review, grade, and provide feedback efficiently",
         images: [
-            "/images/projects/1.png",
-            "/images/projects/2.png",
-            "/images/projects/3.png",
-            "/images/projects/4.png",
-            "/images/projects/5.png"
+            "https://res.cloudinary.com/dy1uetvt1/image/upload/v1767800656/p1_bwxtza.png",
+            "https://res.cloudinary.com/dy1uetvt1/image/upload/v1767800656/p2_akm3h9.png",
+            "https://res.cloudinary.com/dy1uetvt1/image/upload/v1767800656/p4_qejacl.png",
+            "https://res.cloudinary.com/dy1uetvt1/image/upload/v1767800656/p3_eouata.png",
+            "https://res.cloudinary.com/dy1uetvt1/image/upload/v1767800657/p5_dcddir.png"
         ],
         stack: ["React.js", "Node.js", "PostgreSQL", "Socket.IO", "Tailwind CSS"],
         gitUrl: "https://github.com/disk007/Online-Homework-Submission",
@@ -38,11 +38,11 @@ export const projectDetails = [
         title: "Fashion Mens",
         description: "The system allows users to purchase clothing, track their order status, view available sizes, and make payments",
         images: [
-            "/images/projects/fashionmens/f1.png",
-            "/images/projects/fashionmens/f2.png",
-            "/images/projects/fashionmens/f3.png",
-            "/images/projects/fashionmens/f4.png",
-            "/images/projects/fashionmens/f5.png"
+            "https://res.cloudinary.com/dy1uetvt1/image/upload/v1767801451/f1_ak7v5a.png",
+            "https://res.cloudinary.com/dy1uetvt1/image/upload/v1767801451/f2_tobcjm.png",
+            "https://res.cloudinary.com/dy1uetvt1/image/upload/v1767801452/f3_tfb7za.png",
+            "https://res.cloudinary.com/dy1uetvt1/image/upload/v1767801452/f4_jhxwub.png",
+            "https://res.cloudinary.com/dy1uetvt1/image/upload/v1767801453/f5_lg1cnw.png"
         ],
         stack: ["PHP", "MySQL", "Bootstrap", "HTML", "CSS","JavaScript"],
         gitUrl: "https://github.com/disk007/Fashion-mans",
@@ -57,7 +57,7 @@ export const projectDetails = [
         title: "Multilevel Queue",
         description: "This system simulates CPU access requests using the concept of Multilevel Queue Scheduling, which is a scheduling technique used to prioritize processes waiting for CPU execution.",
         images: [
-            "/images/projects/multilevelqueue/p1.png",
+            "https://res.cloudinary.com/dy1uetvt1/image/upload/v1767801161/p1_yf0oia.png",
         ],
         stack:["HTML", "CSS", "JavaScript","Bootstrap"],
         gitUrl: "https://github.com/disk007/MultilevelQueue",
@@ -71,9 +71,9 @@ export const projectDetails = [
         title: "Chat Messenger",
         description: "A real-time chat application that allows users to send and receive messages instantly, supporting both one-on-one and group conversations.",
         images: [
-            "/images/projects/chatmessge/c1.png",
-            "/images/projects/chatmessge/c2.png",
-            "/images/projects/chatmessge/c3.png",
+            "https://res.cloudinary.com/dy1uetvt1/image/upload/v1767801615/c1_mkctqk.png",
+            "https://res.cloudinary.com/dy1uetvt1/image/upload/v1767801615/c3_yazy2b.png",
+            "https://res.cloudinary.com/dy1uetvt1/image/upload/v1767801614/c2_ip10jt.png",
         ],
         stack: ["Next.js", "PostgreSQL", "Socket.IO", "Tailwind CSS","TypeScript"],     
         gitUrl: "https://github.com/disk007/chatNext.js/",
