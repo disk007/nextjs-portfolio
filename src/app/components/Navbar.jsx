@@ -17,12 +17,12 @@ const navLinks = [
     path: "#about",
   },
   {
-    title: "Experience",
-    path: "#experience",
-  },
-  {
     title: "Projects",
     path: "#projects",
+  },
+  {
+    title: "Experience",
+    path: "#experience",
   },
 ];
 const socialLinks = [
@@ -33,7 +33,7 @@ const socialLinks = [
   },
   {
     icon: <FaLinkedin className="w-5 h-5" />,
-    path: "https://linkedin.com/in/YOUR_LINKEDIN",
+    path: "https://www.linkedin.com/in/witchaphon-saenthawisuk/",
     title: "LinkedIn",
   },
 ];

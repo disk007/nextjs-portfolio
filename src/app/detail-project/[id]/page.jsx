@@ -91,7 +91,7 @@ const DetailProjectPage = ({ params }) => {
                                                 }
                   `}
                                         >
-                                            <img src={img} alt="thumb" className="object-cover"/>
+                                            <img src={img} alt="thumb" className="w-full h-full object-cover"/>
                                         </button>
                                     ))}
                                 </div>
