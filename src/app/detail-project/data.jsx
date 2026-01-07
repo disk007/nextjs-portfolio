@@ -4,8 +4,8 @@ export const projectDetails = [
         title: "Intern Leaderboard",
         description: "This website is an Intern Leaderboard developed to display and rank the performance of interns within the organization. The system retrieves data from Jira, a project management tool",
         images: [
-            "/images/projects/InternLeaderboard/p1.png",
-            "/images/projects/InternLeaderboard/p2.png",
+            "/images/projects/internleaderboard/p1.png",
+            "/images/projects/internleaderboard/p2.png",
         ],
         stack: ["Angular", "ASP.NET Core", "SQL Server","TypeScript"],
         gitUrl: "",
@@ -19,11 +19,11 @@ export const projectDetails = [
         title: "Submit Assignment",
         description: "A web-based system that allows students to submit homework assignments online and enables teachers to review, grade, and provide feedback efficiently",
         images: [
-            "/images/projects/submitAssignment/p1.png",
-            "/images/projects/submitAssignment/p2.png",
-            "/images/projects/submitAssignment/p3.png",
-            "/images/projects/submitAssignment/p4.png",
-            "/images/projects/submitAssignment/p5.png"
+            "/images/projects/submitassignment/p1.png",
+            "/images/projects/submitassignment/p2.png",
+            "/images/projects/submitassignment/p3.png",
+            "/images/projects/submitassignment/p4.png",
+            "/images/projects/submitassignment/p5.png"
         ],
         stack: ["React.js", "Node.js", "PostgreSQL", "Socket.IO", "Tailwind CSS"],
         gitUrl: "https://github.com/disk007/Online-Homework-Submission",
@@ -38,11 +38,11 @@ export const projectDetails = [
         title: "Fashion Mens",
         description: "The system allows users to purchase clothing, track their order status, view available sizes, and make payments",
         images: [
-            "/images/projects/FashionMens/p1.png",
-            "/images/projects/FashionMens/p2.png",
-            "/images/projects/FashionMens/p3.png",
-            "/images/projects/FashionMens/p4.png",
-            "/images/projects/FashionMens/p5.png"
+            "/images/projects/fashionmens/p1.png",
+            "/images/projects/fashionmens/p2.png",
+            "/images/projects/fashionmens/p3.png",
+            "/images/projects/fashionmens/p4.png",
+            "/images/projects/fashionmens/p5.png"
         ],
         stack: ["PHP", "MySQL", "Bootstrap", "HTML", "CSS","JavaScript"],
         gitUrl: "https://github.com/disk007/Fashion-mans",
@@ -57,7 +57,7 @@ export const projectDetails = [
         title: "Multilevel Queue",
         description: "This system simulates CPU access requests using the concept of Multilevel Queue Scheduling, which is a scheduling technique used to prioritize processes waiting for CPU execution.",
         images: [
-            "/images/projects/MultilevelQueue/p1.png",
+            "/images/projects/multilevelqueue/p1.png",
         ],
         stack:["HTML", "CSS", "JavaScript","Bootstrap"],
         gitUrl: "https://github.com/disk007/MultilevelQueue",
@@ -71,9 +71,9 @@ export const projectDetails = [
         title: "Chat Messenger",
         description: "A real-time chat application that allows users to send and receive messages instantly, supporting both one-on-one and group conversations.",
         images: [
-            "/images/projects/ChatMessge/p1.png",
-            "/images/projects/ChatMessge/p2.png",
-            "/images/projects/ChatMessge/p3.png",
+            "/images/projects/chatmessge/p1.png",
+            "/images/projects/chatmessge/p2.png",
+            "/images/projects/chatmessge/p3.png",
         ],
         stack: ["Next.js", "PostgreSQL", "Socket.IO", "Tailwind CSS","TypeScript"],     
         gitUrl: "https://github.com/disk007/chatNext.js/",
