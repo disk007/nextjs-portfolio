@@ -46,11 +46,10 @@ const DetailProjectPage = ({ params }) => {
                     {activeImage ? (
                         <section className="grid grid-cols-1 md:grid-cols-2 gap-6 md:gap-10">
                             {/* IMAGE GALLERY */}
-                            <div className="p-2 md:p-3">
+                            <div className="p-2 md:px-3">
                                 <div className="
                                     relative
-                                    aspect-[4/3]
-                                    sm:aspect-square
+                                    aspect-square
                                     rounded-xl
                                     overflow-hidden
                                     bg-[#181818]
